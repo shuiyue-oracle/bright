@@ -1,0 +1,2 @@
+# bright
+monorepo仓库
